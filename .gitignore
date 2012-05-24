@@ -17,3 +17,4 @@ config/database.php
 # webroot media files
 webroot/media/*
 
+/tmp/
