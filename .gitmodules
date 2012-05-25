@@ -5,3 +5,6 @@
 	path = plugins/interactive
 	url = https://github.com/mcurry/interactive.git
 
+[submodule "plugins/migrations"]
+	path = plugins/migrations
+	url = git@github.com:neterslandreau/migrations.git
